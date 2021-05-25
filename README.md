@@ -1,2 +1,2 @@
-# Piero-Bazan07
+#Piero-Francesco-Bazan-Huaman
 PRESENTACION DEL TRABAJO.
