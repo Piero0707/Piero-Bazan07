@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+header{
+    width: 100%;
+    height: auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.fondo{
+    width: 100%;
+    height: auto;
+}
+
+.absolute{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#TITULO {
+    font-size: 80px;
+    font-weight: 900;
+    z-index: 100;
+    color: floralwhite;
+    margin-bottom: 30%;
+}
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.575)
+}
+
+.articulo{
+    position: relative;
+    top: 150px;
+    font-size: 13px;
+}
+
+.recursos{
+    position: relative;
+    top: 30px;
+}
+
+.comentarios{
+    position: relative;
+    top: 50px;
+}
+
+.subtitulo{
+    font-size: 25px;
+}
+    
+.musica1{
+    position: relative;
+    top:100 px
+}
